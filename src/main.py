@@ -3,6 +3,8 @@ import shutil
 
 from copystatic import copy_files_recursive
 #this is comment 
+#this is another comment
+
 
 dir_path_static = "./static"
 dir_path_public = "./public"
